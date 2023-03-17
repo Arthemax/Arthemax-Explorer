@@ -1,1 +1,1 @@
-This ia Pull Request template
+This is a pull request template, contributors may change it by editing it and explaining its importance.
